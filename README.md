@@ -1,5 +1,4 @@
 # Utils
-============
 
 
 * This will help us for checking that app is connected to Internet or not.
